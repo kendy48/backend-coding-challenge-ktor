@@ -1,5 +1,7 @@
 # Build
 .gradle
+gradlew
+gradlew.bat
 build/
 
 # IntelliJ

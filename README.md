@@ -29,7 +29,7 @@ required for completing the challenge.
 ### Limitations:
 
 * use Kotlin
-* use Ktor
+* use Spring boot
 * test accordingly
 
 ### What if I don't finish?

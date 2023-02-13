@@ -1,1 +1,1 @@
-rootProject.name = "Backend Challenge"
+rootProject.name = "demoThermondo"
