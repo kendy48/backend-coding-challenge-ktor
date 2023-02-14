@@ -23,7 +23,11 @@ dependencies {
 	implementation("javax.persistence:javax.persistence-api:2.2")
 	implementation("org.springframework.boot:spring-boot-starter-data-jpa")
 	runtimeOnly("com.h2database:h2")
+
+	implementation("com.ninja-squad:springmockk:3.1.2")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
+	testImplementation("org.junit.vintage:junit-vintage-engine:5.9.1")
+	testImplementation("org.junit.platform:junit-platform-launcher:1.9.1")
 }
 
 tasks.withType<KotlinCompile> {
